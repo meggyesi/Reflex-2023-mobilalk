@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524090531375",
+    "project_id": "reflexgame-b5f86",
+    "storage_bucket": "reflexgame-b5f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524090531375:android:3cb7ab0f7dce1b23ad70da",
+        "android_client_info": {
+          "package_name": "com.example.reflex_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524090531375-lqo4ampm7dui6m2ramjs4k5gm1bmb18p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reflex_2023",
+            "certificate_hash": "972cdbf95fe9ee6050f28b8b7f3685f6210b72e0"
+          }
+        },
+        {
+          "client_id": "524090531375-e4gelfiud2qpv17ncmihj7e4c0a5ucq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYiWgPjIL9NBggNC85nR_dniXYx5pH1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524090531375-e4gelfiud2qpv17ncmihj7e4c0a5ucq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

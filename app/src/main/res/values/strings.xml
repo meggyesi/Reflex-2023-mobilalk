@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reflex-2023</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome_to_reflex">Welcome to Reflex!</string>
+    <string name="play">PLAY</string>
+    <string name="reflex_logo">Reflex logo</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_again">Password again</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="log_out">Log out</string>
+    <string name="not_logged_in">Not logged in</string>
+    <string name="done">done!</string>
+    <string name="ranglist">Ranglist</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
